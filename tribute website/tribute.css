@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main{
+    background-color: beige;
+    min-height: 200vh;
+    border: 10px solid #1d1e4c;
+}
+.container
+img{
+   width: 500px;
+   height: 520px;
+   border-radius: 50%;
+}
+.container{
+    padding: 70px ;
+    display: flex;
+    margin: 100px;
+    align-items: flex-end;
+}
+.lifespan{
+     text-align: center;
+}
+.about{
+    padding: 60px;
+}
+.bio{
+    padding: 60px;
+}
+footer{
+    margin-left: 500px;
+}
